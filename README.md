@@ -1,5 +1,5 @@
-arquillian-madridjug-slides
-===========================
+arquillian-madridjug-example
+============================
 
 Proyecto de ejemplo usado en la charla del Madrid JUG. 
 Está hecho a partir de un archetype de jboss para demostrar cómo hacer una aplicación JEE 6.
